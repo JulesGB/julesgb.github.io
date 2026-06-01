@@ -12,6 +12,8 @@
 # baseurl:               '/hydejack-starter-kit'
 
 repository: JulesGB/jules-goduco
+baseurl: ""
+url: "https://julesgb.github.io"
 
 
 # General settings
